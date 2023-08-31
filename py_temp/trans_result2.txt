@@ -1,0 +1,3 @@
+I like apples and bananas.
+I like mangoes and apples.
+I like apples but I don't like cherries.
